@@ -27,7 +27,7 @@ I'm a passionate software developer with a keen interest in building robust and 
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/muneebwalikhan/)
-- Email: muneebwali@email.com
+- Email: muneebwali809@gmail.com
 - Twitter: [@MuneebWaliKhan09](https://twitter.com/MuneebWaliKhan09)
 
 ## 📊 GitHub Stats
