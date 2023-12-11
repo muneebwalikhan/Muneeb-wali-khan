@@ -16,7 +16,7 @@ I'm a passionate software developer with a keen interest in building robust and 
 
 ## 🚀 Projects
 - [Project Management App]()
-- [E-commerce Platform]()
+- [E-commerce Platform](https://github.com/MuneebWaliKhan09/ecommerce-muneeb)
 - [Personal Portfolio]()
 
 ## 👀 I’m open to collaboration on
