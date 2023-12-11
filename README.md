@@ -17,7 +17,7 @@ I'm a passionate software developer with a keen interest in building robust and 
 ## 🚀 Projects
 - [Blog website ](https://github.com/MuneebWaliKhan09/personal-Blog)
 - [E-commerce Platform](https://github.com/MuneebWaliKhan09/ecommerce-muneeb)
-- [Personal Portfolio]()
+- [Password Generator](https://github.com/MuneebWaliKhan09/Password-generator)
 
 ## 👀 I’m open to collaboration on
 - Exciting projects involving full-stack development
