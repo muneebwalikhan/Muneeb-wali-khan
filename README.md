@@ -15,9 +15,9 @@ I'm a passionate software developer with a keen interest in building robust and 
 - **Tools & Technologies:** Git, Docker, VS Code
 
 ## 🚀 Projects
-- [Project Management App](https://github.com/MuneebWaliKhan09/project-management-app](https://github.com/MuneebWaliKhan09/ecommerce-muneeb.git)
-- [E-commerce Platform](https://github.com/MuneebWaliKhan09/project-management-app](https://github.com/MuneebWaliKhan09/ecommerce-muneeb.git)
-- [Personal Portfolio](https://github.com/MuneebWaliKhan09/personal-portfolio)
+- [Project Management App]()
+- [E-commerce Platform]()
+- [Personal Portfolio]()
 
 ## 👀 I’m open to collaboration on
 - Exciting projects involving full-stack development
