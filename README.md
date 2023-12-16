@@ -3,16 +3,11 @@
 ## About Me
 I'm a passionate software developer with a keen interest in building robust and scalable applications. I love to explore new technologies and solve real-world problems with code.
 
-## 🌱 I’m currently learning
-- DevOps practices and CI/CD pipelines
-- Advanced JavaScript frameworks like React and Node.js
-- Cloud computing with AWS
-
 ## 🔧 Skills
-- **Programming Languages:** JavaScript, Python
+- **Programming Languages:** JavaScript, (Python/beginner level)
 - **Web Development:** React, Node.js, Express.js, HTML, CSS
-- **Database:** MongoDB, MySQL
-- **Tools & Technologies:** Git, Docker, VS Code
+- **Database:** MongoDB
+- **Tools & Technologies:** Git, VS Code
 
 ## 🚀 Projects
 - [Blog website ](https://github.com/MuneebWaliKhan09/personal-Blog)
@@ -21,14 +16,12 @@ I'm a passionate software developer with a keen interest in building robust and 
 - [Alarm Clock](https://github.com/MuneebWaliKhan09/Alarm-clock)
 
 ## 👀 I’m open to collaboration on
-- Exciting projects involving full-stack development
-- Innovative ideas in web and mobile app development
+- Exciting projects involving Mern full-stack development
 - Any opportunities to contribute to open source
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/muneebwalikhan/)
+- [LinkedIn](www.linkedin.com/in/muneeb-wali-khan)
 - Email: muneebwali809@gmail.com
-- Twitter: [@MuneebWaliKhan09](https://twitter.com/MuneebWaliKhan09)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuneebWaliKhan09&show_icons=true&theme=dark)
@@ -39,7 +32,7 @@ I'm a passionate software developer with a keen interest in building robust and 
 
 
 ## 📝 Latest Blog Posts
-- [10 Tips for Efficient Coding](https://dev.to/muneebwali/10-tips-for-efficient-coding-2i05)
-- [Getting Started with React Hooks](https://dev.to/muneebwali/getting-started-with-react-hooks-45oa)
+- [10 Tips for Efficient Coding]("soon")
+- [Getting Started with React Hooks]("soon")
 
 Feel free to explore my repositories and don't hesitate to connect. Let's build something amazing together!
