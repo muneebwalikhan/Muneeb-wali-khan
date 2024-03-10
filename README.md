@@ -4,7 +4,7 @@
 I'm a passionate software developer with a keen interest in building robust and scalable applications. I love to explore new technologies and solve real-world problems with code.
 
 ## 🔧 Skills
-- **Programming Languages:** JavaScript, (Python/beginner level)
+- **Programming Languages:** JavaScript, (Python/Entermediate level)
 - **Web Development:** React, Node.js, Express.js, HTML, CSS
 - **Database:** MongoDB
 - **Tools & Technologies:** Git, VS Code
