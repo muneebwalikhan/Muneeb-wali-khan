@@ -14,6 +14,8 @@ I'm a passionate software developer with a keen interest in building robust and 
 - [E-commerce Platform](https://github.com/MuneebWaliKhan09/ecommerce-muneeb)
 - [Password Generator](https://github.com/MuneebWaliKhan09/Password-generator)
 - [Alarm Clock](https://github.com/MuneebWaliKhan09/Alarm-clock)
+- [Bulk-QR-CODE GENERATTOR](https://github.com/MuneebWaliKhan09/bulk-qrcode-generator)
+- [text from image extractor](https://github.com/MuneebWaliKhan09/text-from-image-detector)
 
 ## 👀 I’m open to collaboration on
 - Exciting projects involving Mern full-stack development
