@@ -1,6 +1,6 @@
 # Muneeb Wali Khan (FullStack Developer)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tothepointcode&theme=dark&hide_border=true)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan09&theme=dark&hide_border=true)
 
 ## 🛠 Top Languages by Repo
 ![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=tothepointcode&theme=dark&hide_border=true&layout=compact)
