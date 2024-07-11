@@ -1,66 +1,43 @@
-# Muneeb Wali Khan (FullStack Developer)
+# 👋 Hi there, I'm Muneeb Wali Khan!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuneebWaliKhan09&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+## About Me
+I'm a passionate software developer with a keen interest in building robust and scalable applications. I love to explore new technologies and solve real-world problems with code.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan09&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+## 🔧 Skills
+- **Programming Languages:** JavaScript (Node.js, React, React Native), Python (Intermediate)
+- **Web Development:** React, Node.js, Express.js, HTML, CSS
+- **App Development:** React Native, Node.js, Express
+- **Database:** MongoDB
+- **Tools & Technologies:** Git, VS Code
 
-## 📊 Top Languages by Repo
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&theme=radical&hide_border=true&layout=compact" alt="Top Languages by Repo" />
-</p>
+## 🚀 Projects
+- [Personal Blog](https://github.com/MuneebWaliKhan09/personal-Blog)
+- [E-commerce Platform](https://github.com/MuneebWaliKhan09/ecommerce-muneeb)
+- [Password Generator](https://github.com/MuneebWaliKhan09/Password-generator)
+- [Alarm Clock](https://github.com/MuneebWaliKhan09/Alarm-clock)
+- [Bulk QR Code Generator](https://github.com/MuneebWaliKhan09/bulk-qrcode-generator)
+- [Text from Image Extractor](https://github.com/MuneebWaliKhan09/text-from-image-detector)
 
-## 📊 Top Languages by Commit
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&langs_count=10&hide=java&theme=radical&hide_border=true" alt="Top Languages by Commit" />
-</p>
+## 👀 I’m open to collaboration on
+- Exciting projects involving MERN full-stack development
+- Opportunities to contribute to open source initiatives
 
-## 📈 Commits (UTC +0:00)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MuneebWaliKhan09&theme=radical&hide_border=true" alt="Commits" />
-</p>
+## 📫 How to reach me
+- [LinkedIn](www.linkedin.com/in/muneeb-wali-khan)
+- Email: muneebwali809@gmail.com
 
-## 📊 Contributions
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MuneebWaliKhan09&theme=react-dark" alt="Contribution Graph" />
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuneebWaliKhan09&show_icons=true&theme=dark)
 
-## 👨‍💻 Stats
-<p align="center">
-  <img src="https://img.shields.io/github/stars/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Stars" alt="Total Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Commits" alt="Total Commits" />
-  <img src="https://img.shields.io/github/issues-pr-closed-raw/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20PRs" alt="Total PRs" />
-  <img src="https://img.shields.io/github/issues-closed-raw/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Issues" alt="Total Issues" />
-  <img src="https://img.shields.io/github/contributors/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Contributed%20to" alt="Contributed to" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&layout=compact&theme=dark)
 
----
+## 📝 Latest Blog Posts
+- [10 Tips for Efficient Coding](#) *(coming soon)*
+- [Getting Started with React Hooks](#) *(coming soon)*
 
-### About Me
-- 🔭 I’m currently working on **a school management app**
-- 🌱 I’m currently learning **MERN Stack**
-- 👯 I’m looking to collaborate on **open source projects**
-- 👨‍💻 All of my projects are available at [https://github.com/MuneebWaliKhan09](https://github.com/MuneebWaliKhan09)
-- 📝 I regularly write articles on [https://medium.com/@MuneebWaliKhan09](https://medium.com/@MuneebWaliKhan09)
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me **tothepointcode@gmail.com**
-- ⚡ Fun fact **I love coding and gaming**
+[![GitHub stars](https://img.shields.io/github/stars/MuneebWaliKhan09?style=social)](https://github.com/MuneebWaliKhan09)
+[![GitHub forks](https://img.shields.io/github/forks/MuneebWaliKhan09/project-management-app?style=social)](https://github.com/MuneebWaliKhan09/project-management-app)
+[![GitHub issues](https://img.shields.io/github/issues/MuneebWaliKhan09/e-commerce-platform)](https://github.com/MuneebWaliKhan09/e-commerce-platform/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/MuneebWaliKhan09/personal-portfolio)](https://github.com/MuneebWaliKhan09/personal-portfolio/graphs/contributors)
 
-### Connect with Me:
-<p align="left">
-  <a href="https://twitter.com/tothepointcode" target="blank"><img src="https://raw.githubusercontent.com/MuneebWaliKhan09/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tothepointcode" target="blank"><img src="https://raw.githubusercontent.com/MuneebWaliKhan09/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://medium.com/@tothepointcode" target="blank"><img src="https://raw.githubusercontent.com/MuneebWaliKhan09/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-</p>
-
-### Languages and Tools:
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-</p>
+Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together!
