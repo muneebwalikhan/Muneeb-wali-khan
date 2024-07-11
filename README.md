@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muneeb Wali Khan!
 
 ## About Me
-I'm a passionate software developer with a keen interest in building robust and scalable applications. I love to explore new technologies and solve real-world problems with code.
+I'm a passionate software developer with a focus on building robust and scalable applications. I enjoy exploring new technologies and applying them to solve real-world problems through code.
 
 ## 🔧 Skills
 - **Programming Languages:** JavaScript (Node.js, React, React Native), Python (Intermediate)
@@ -34,6 +34,8 @@ I'm a passionate software developer with a keen interest in building robust and 
 ## 📝 Latest Blog Posts
 - [10 Tips for Efficient Coding](#) *(coming soon)*
 - [Getting Started with React Hooks](#) *(coming soon)*
+
+---
 
 [![GitHub stars](https://img.shields.io/github/stars/MuneebWaliKhan09?style=social)](https://github.com/MuneebWaliKhan09)
 [![GitHub forks](https://img.shields.io/github/forks/MuneebWaliKhan09/project-management-app?style=social)](https://github.com/MuneebWaliKhan09/project-management-app)
