@@ -31,3 +31,13 @@
   <img src="https://img.shields.io/github/issues-closed-raw/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Issues" alt="Total Issues" />
   <img src="https://img.shields.io/github/contributors/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Contributed%20to" alt="Contributed to" />
 </p>
+
+## 🛠 Top Languages by Repo in Pie Chart
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&theme=dark&hide_border=true&layout=pie" alt="Top Languages by Repo in Pie Chart" />
+</p>
+
+## 🛠 Top Repos by Stars in Pie Chart
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&theme=dark&hide_border=true&layout=pie&card_width=445" alt="Top Repos by Stars in Pie Chart" />
+</p>
