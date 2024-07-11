@@ -1,30 +1,44 @@
 # Muneeb Wali Khan (FullStack Developer)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan09&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan09&theme=dark&hide_border=true" alt="GitHub Contributions" />
+</p>
 
 ## 🛠 Top Languages by Repo
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&theme=dark&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&theme=dark&hide_border=true&layout=compact" alt="Top Languages by Repo" />
+</p>
 
 ## 🛠 Top Languages by Commit
-![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&langs_count=10&hide=java&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&langs_count=10&hide=java&theme=dark&hide_border=true" alt="Top Languages by Commit" />
+</p>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuneebWaliKhan09&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuneebWaliKhan09&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ## 📈 Commits (UTC +0:00)
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan09&theme=dark&hide_border=true&hide_title=true&hide=days)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan09&theme=dark&hide_border=true&hide_title=true&hide=days" alt="Commits" />
+</p>
 
 ## 👨‍💻 Stats
-![Total Stars](https://img.shields.io/github/stars/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Stars)
-![Total Commits](https://img.shields.io/github/commit-activity/y/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Commits)
-![Total PRs](https://img.shields.io/github/issues-pr-closed-raw/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20PRs)
-![Total Issues](https://img.shields.io/github/issues-closed-raw/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Issues)
-![Contributed to](https://img.shields.io/github/contributors/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Contributed%20to)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Stars" alt="Total Stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Commits" alt="Total Commits" />
+  <img src="https://img.shields.io/github/issues-pr-closed-raw/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20PRs" alt="Total PRs" />
+  <img src="https://img.shields.io/github/issues-closed-raw/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Issues" alt="Total Issues" />
+  <img src="https://img.shields.io/github/contributors/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Contributed%20to" alt="Contributed to" />
+</p>
 
 ---
 
 ## 📊 Contributions
-[![MuneebWaliKhan09's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuneebWaliKhan09&theme=react-dark)](https://github.com/MuneebWaliKhan09/github-readme-activity-graph)
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=MuneebWaliKhan09&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
