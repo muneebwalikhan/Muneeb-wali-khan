@@ -9,7 +9,7 @@
 ![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=tothepointcode&langs_count=10&hide=java&theme=dark&hide_border=true)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tothepointcode&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuneebWaliKhan09&show_icons=true&theme=dark&hide_border=true)
 
 ## 📈 Commits (UTC +0:00)
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=tothepointcode&theme=dark&hide_border=true&hide_title=true&hide=days)
