@@ -3,28 +3,28 @@
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan09&theme=dark&hide_border=true)
 
 ## 🛠 Top Languages by Repo
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=tothepointcode&theme=dark&hide_border=true&layout=compact)
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&theme=dark&hide_border=true&layout=compact)
 
 ## 🛠 Top Languages by Commit
-![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=tothepointcode&langs_count=10&hide=java&theme=dark&hide_border=true)
+![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&langs_count=10&hide=java&theme=dark&hide_border=true)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuneebWaliKhan09&show_icons=true&theme=dark&hide_border=true)
 
 ## 📈 Commits (UTC +0:00)
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=tothepointcode&theme=dark&hide_border=true&hide_title=true&hide=days)
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan09&theme=dark&hide_border=true&hide_title=true&hide=days)
 
 ## 👨‍💻 Stats
-![Total Stars](https://img.shields.io/github/stars/tothepointcode?style=for-the-badge&color=orange&label=Total%20Stars)
-![Total Commits](https://img.shields.io/github/commit-activity/y/tothepointcode?style=for-the-badge&color=orange&label=Total%20Commits)
-![Total PRs](https://img.shields.io/github/issues-pr-closed-raw/tothepointcode?style=for-the-badge&color=orange&label=Total%20PRs)
-![Total Issues](https://img.shields.io/github/issues-closed-raw/tothepointcode?style=for-the-badge&color=orange&label=Total%20Issues)
-![Contributed to](https://img.shields.io/github/contributors/tothepointcode?style=for-the-badge&color=orange&label=Contributed%20to)
+![Total Stars](https://img.shields.io/github/stars/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Stars)
+![Total Commits](https://img.shields.io/github/commit-activity/y/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Commits)
+![Total PRs](https://img.shields.io/github/issues-pr-closed-raw/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20PRs)
+![Total Issues](https://img.shields.io/github/issues-closed-raw/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Total%20Issues)
+![Contributed to](https://img.shields.io/github/contributors/MuneebWaliKhan09?style=for-the-badge&color=orange&label=Contributed%20to)
 
 ---
 
 ## 📊 Contributions
-[![tothepointcode's github activity graph](https://activity-graph.herokuapp.com/graph?username=tothepointcode&theme=react-dark)](https://github.com/tothepointcode/github-readme-activity-graph)
+[![MuneebWaliKhan09's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuneebWaliKhan09&theme=react-dark)](https://github.com/MuneebWaliKhan09/github-readme-activity-graph)
 
 ---
 
@@ -32,17 +32,17 @@
 - 🔭 I’m currently working on **a school management app**
 - 🌱 I’m currently learning **MERN Stack**
 - 👯 I’m looking to collaborate on **open source projects**
-- 👨‍💻 All of my projects are available at [https://github.com/tothepointcode](https://github.com/tothepointcode)
-- 📝 I regularly write articles on [https://medium.com/@tothepointcode](https://medium.com/@tothepointcode)
+- 👨‍💻 All of my projects are available at [https://github.com/MuneebWaliKhan09](https://github.com/MuneebWaliKhan09)
+- 📝 I regularly write articles on [https://medium.com/@MuneebWaliKhan09](https://medium.com/@MuneebWaliKhan09)
 - 💬 Ask me about **JavaScript, React, Node.js**
 - 📫 How to reach me **tothepointcode@gmail.com**
 - ⚡ Fun fact **I love coding and gaming**
 
 ### Connect with Me:
 <p align="left">
-  <a href="https://twitter.com/tothepointcode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tothepointcode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://medium.com/@tothepointcode" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+  <a href="https://twitter.com/tothepointcode" target="blank"><img src="https://raw.githubusercontent.com/MuneebWaliKhan09/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tothepointcode" target="blank"><img src="https://raw.githubusercontent.com/MuneebWaliKhan09/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://medium.com/@tothepointcode" target="blank"><img src="https://raw.githubusercontent.com/MuneebWaliKhan09/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
