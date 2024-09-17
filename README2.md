@@ -12,12 +12,12 @@ I'm a passionate software developer dedicated to crafting robust and scalable ap
 
 ## 🚀 Projects
 Here are some of my notable projects:
-- [Personal Blog](https://github.com/MuneebWaliKhan09/personal-Blog): A platform to share insights and ideas.
-- [E-commerce Platform](https://github.com/MuneebWaliKhan09/ecommerce-muneeb): An online store solution.
-- [Password Generator](https://github.com/MuneebWaliKhan09/Password-generator): A tool to create secure passwords.
-- [Alarm Clock](https://github.com/MuneebWaliKhan09/Alarm-clock): An intuitive alarm management app.
-- [Bulk QR Code Generator](https://github.com/MuneebWaliKhan09/bulk-qrcode-generator): Efficiently generates QR codes in bulk.
-- [Text from Image Extractor](https://github.com/MuneebWaliKhan09/text-from-image-detector): Extracts text from images for easy digitalization.
+- [Personal Blog](https://github.com/MuneebWaliKhan/personal-Blog): A platform to share insights and ideas.
+- [E-commerce Platform](https://github.com/MuneebWaliKhan/ecommerce-muneeb): An online store solution.
+- [Password Generator](https://github.com/MuneebWaliKhan/Password-generator): A tool to create secure passwords.
+- [Alarm Clock](https://github.com/MuneebWaliKhan/Alarm-clock): An intuitive alarm management app.
+- [Bulk QR Code Generator](https://github.com/MuneebWaliKhan/bulk-qrcode-generator): Efficiently generates QR codes in bulk.
+- [Text from Image Extractor](https://github.com/MuneebWaliKhan/text-from-image-detector): Extracts text from images for easy digitalization.
 
 ## 👀 I’m open to collaboration on
 I'm interested in collaborating on:
@@ -29,13 +29,13 @@ I'm interested in collaborating on:
 - Email me at muneebwali809@gmail.com.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuneebWaliKhan09&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuneebWaliKhan&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan09&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuneebWaliKhan09&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuneebWaliKhan&theme=react-dark)
 
 ## 📝 Latest Blog Posts
 Stay tuned for my latest blog posts:
@@ -44,9 +44,9 @@ Stay tuned for my latest blog posts:
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/MuneebWaliKhan09?style=social)](https://github.com/MuneebWaliKhan09)
-[![GitHub forks](https://img.shields.io/github/forks/MuneebWaliKhan09/project-management-app?style=social)](https://github.com/MuneebWaliKhan09/project-management-app)
-[![GitHub issues](https://img.shields.io/github/issues/MuneebWaliKhan09/e-commerce-platform)](https://github.com/MuneebWaliKhan09/e-commerce-platform/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/MuneebWaliKhan09/personal-portfolio)](https://github.com/MuneebWaliKhan09/personal-portfolio/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/MuneebWaliKhan?style=social)](https://github.com/MuneebWaliKhan)
+[![GitHub forks](https://img.shields.io/github/forks/MuneebWaliKhan/project-management-app?style=social)](https://github.com/MuneebWaliKhan/project-management-app)
+[![GitHub issues](https://img.shields.io/github/issues/MuneebWaliKhan/e-commerce-platform)](https://github.com/MuneebWaliKhan/e-commerce-platform/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/MuneebWaliKhan/personal-portfolio)](https://github.com/MuneebWaliKhan/personal-portfolio/graphs/contributors)
 
 Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together!
