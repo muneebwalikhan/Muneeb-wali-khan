@@ -33,6 +33,10 @@ I'm interested in collaborating on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan09&layout=compact&theme=dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan&theme=dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuneebWaliKhan&theme=react-dark)
+
 ## 📝 Latest Blog Posts
 Stay tuned for my latest blog posts:
 - [10 Tips for Efficient Coding](#) *(coming soon)*
