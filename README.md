@@ -4,7 +4,7 @@
 I'm a passionate software developer dedicated to crafting robust and scalable applications. I thrive on exploring cutting-edge technologies and leveraging them to tackle real-world challenges through code.
 
 ## 🔧 Skills
-- **Programming Languages:** JavaScript (Node.js, React, React Native), Python (Intermediate)
+- **Programming Languages:** JavaScript (Node.js, React, React Native)
 - **Web Development:** React, Node.js, Express.js, HTML, CSS
 - **App Development:** React Native, Node.js, Express
 - **Database:** MongoDB
@@ -25,7 +25,7 @@ I'm interested in collaborating on:
 - Opportunities to contribute to impactful open-source initiatives.
 
 ## 📫 How to reach me
-- Connect with me on [LinkedIn](www.linkedin.com/in/muneeb-wali-khan).
+- Connect with me on [LinkedIn](www.linkedin.com/in/muneebwalikhan).
 - Email me at muneebwali809@gmail.com.
 
 ## 📊 GitHub Stats
