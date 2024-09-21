@@ -12,12 +12,12 @@ I'm a passionate software developer dedicated to crafting robust and scalable ap
 
 ## 🚀 Projects
 Here are some of my notable projects:
-- [Personal Blog](https://github.com/MuneebWaliKhan/personal-Blog): A platform to share insights and ideas.
-- [E-commerce Platform](https://github.com/MuneebWaliKhan/ecommerce-muneeb): An online store solution.
-- [Password Generator](https://github.com/MuneebWaliKhan/Password-generator): A tool to create secure passwords.
-- [Alarm Clock](https://github.com/MuneebWaliKhan/Alarm-clock): An intuitive alarm management app.
-- [Bulk QR Code Generator](https://github.com/MuneebWaliKhan/bulk-qrcode-generator): Efficiently generates QR codes in bulk.
-- [Text from Image Extractor](https://github.com/MuneebWaliKhan/text-from-image-detector): Extracts text from images for easy digitalization.
+- [Personal Blog](https://github.com/muneebwalikhan/personal-Blog): A platform to share insights and ideas.
+- [E-commerce Platform](https://github.com/muneebwalikhan/ecommerce-muneeb): An online store solution.
+- [Password Generator](https://github.com/muneebwalikhan/Password-generator): A tool to create secure passwords.
+- [Alarm Clock](https://github.com/muneebwalikhan/Alarm-clock): An intuitive alarm management app.
+- [Bulk QR Code Generator](https://github.com/muneebwalikhan/bulk-qrcode-generator): Efficiently generates QR codes in bulk.
+- [Text from Image Extractor](https://github.com/muneebwalikhan/text-from-image-detector): Extracts text from images for easy digitalization.
 
 ## 👀 I’m open to collaboration on
 I'm interested in collaborating on:
@@ -29,13 +29,13 @@ I'm interested in collaborating on:
 - Email me at muneebwali809@gmail.com.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuneebWaliKhan&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muneebwalikhan&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebWaliKhan&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwalikhan&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuneebWaliKhan&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muneebwalikhan&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuneebWaliKhan&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=muneebwalikhan&theme=react-dark)
 
 ## 📝 Latest Blog Posts
 Stay tuned for my latest blog posts:
@@ -44,9 +44,9 @@ Stay tuned for my latest blog posts:
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/MuneebWaliKhan?style=social)](https://github.com/MuneebWaliKhan)
-[![GitHub forks](https://img.shields.io/github/forks/MuneebWaliKhan/project-management-app?style=social)](https://github.com/MuneebWaliKhan/project-management-app)
-[![GitHub issues](https://img.shields.io/github/issues/MuneebWaliKhan/e-commerce-platform)](https://github.com/MuneebWaliKhan/e-commerce-platform/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/MuneebWaliKhan/personal-portfolio)](https://github.com/MuneebWaliKhan/personal-portfolio/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/muneebwalikhan?style=social)](https://github.com/muneebwalikhan)
+[![GitHub forks](https://img.shields.io/github/forks/muneebwalikhan/project-management-app?style=social)](https://github.com/muneebwalikhan/project-management-app)
+[![GitHub issues](https://img.shields.io/github/issues/muneebwalikhan/e-commerce-platform)](https://github.com/muneebwalikhan/e-commerce-platform/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/muneebwalikhan/personal-portfolio)](https://github.com/muneebwalikhan/personal-portfolio/graphs/contributors)
 
 Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together!
