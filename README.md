@@ -12,12 +12,12 @@ I'm a passionate software developer dedicated to crafting robust and scalable ap
 
 ## 🚀 Projects
 Here are some of my notable projects:
-- [Personal Blog](https://github.com/muneebwalikhan/personal-Blog): A platform to share insights and ideas.
-- [E-commerce Platform](https://github.com/muneebwalikhan/ecommerce-muneeb): An online store solution.
-- [Password Generator](https://github.com/muneebwalikhan/Password-generator): A tool to create secure passwords.
-- [Alarm Clock](https://github.com/muneebwalikhan/Alarm-clock): An intuitive alarm management app.
-- [Bulk QR Code Generator](https://github.com/muneebwalikhan/bulk-qrcode-generator): Efficiently generates QR codes in bulk.
-- [Text from Image Extractor](https://github.com/muneebwalikhan/text-from-image-detector): Extracts text from images for easy digitalization.
+- [Personal Blog](https://github.com/Muneeb-wali-khan/personal-Blog): A platform to share insights and ideas.
+- [E-commerce Platform](https://github.com/Muneeb-wali-khan/ecommerce-muneeb): An online store solution.
+- [Password Generator](https://github.com/Muneeb-wali-khan/Password-generator): A tool to create secure passwords.
+- [Alarm Clock](https://github.com/Muneeb-wali-khan/Alarm-clock): An intuitive alarm management app.
+- [Bulk QR Code Generator](https://github.com/Muneeb-wali-khan/bulk-qrcode-generator): Efficiently generates QR codes in bulk.
+- [Text from Image Extractor](https://github.com/Muneeb-wali-khan/text-from-image-detector): Extracts text from images for easy digitalization.
 
 ## 👀 I’m open to collaboration on
 I'm interested in collaborating on:
@@ -25,17 +25,17 @@ I'm interested in collaborating on:
 - Opportunities to contribute to impactful open-source initiatives.
 
 ## 📫 How to reach me
-- Connect with me on [LinkedIn](www.linkedin.com/in/muneebwalikhan).
+- Connect with me on [LinkedIn](www.linkedin.com/in/Muneeb-wali-khan).
 - Email me at muneebwali809@gmail.com.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muneebwalikhan&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeb-wali-khan&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwalikhan&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-wali-khan&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muneebwalikhan&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-wali-khan&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=muneebwalikhan&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Muneeb-wali-khan&theme=react-dark)
 
 ## 📝 Latest Blog Posts
 Stay tuned for my latest blog posts:
@@ -44,9 +44,9 @@ Stay tuned for my latest blog posts:
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/muneebwalikhan?style=social)](https://github.com/muneebwalikhan)
-[![GitHub forks](https://img.shields.io/github/forks/muneebwalikhan/project-management-app?style=social)](https://github.com/muneebwalikhan/project-management-app)
-[![GitHub issues](https://img.shields.io/github/issues/muneebwalikhan/e-commerce-platform)](https://github.com/muneebwalikhan/e-commerce-platform/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/muneebwalikhan/personal-portfolio)](https://github.com/muneebwalikhan/personal-portfolio/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/Muneeb-wali-khan?style=social)](https://github.com/Muneeb-wali-khan)
+[![GitHub forks](https://img.shields.io/github/forks/Muneeb-wali-khan/project-management-app?style=social)](https://github.com/Muneeb-wali-khan/project-management-app)
+[![GitHub issues](https://img.shields.io/github/issues/Muneeb-wali-khan/e-commerce-platform)](https://github.com/Muneeb-wali-khan/e-commerce-platform/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/Muneeb-wali-khan/personal-portfolio)](https://github.com/Muneeb-wali-khan/personal-portfolio/graphs/contributors)
 
 Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together!
