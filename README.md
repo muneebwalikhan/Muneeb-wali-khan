@@ -1,4 +1,4 @@
-<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/Muneeb-wali-khan/" target="_blank">Muneeb</h1> 
+<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/Muneeb-wali-khan/" target="_blank">Muneeb wali khan</h1> 
 <p align="center">
     <a href="https://www.linkedin.com/in/Muneeb-wali-khan/">
         <img src="https://avatars.githubusercontent.com/u/126275491?v=4"/>
