@@ -46,7 +46,7 @@ Stay tuned for my latest blog posts:
 
 [![GitHub stars](https://img.shields.io/github/stars/MuneebWaliKhan?style=social)](https://github.com/MuneebWaliKhan)
 [![GitHub forks](https://img.shields.io/github/forks/MuneebWaliKhan/project-management-app?style=social)](https://github.com/MuneebWaliKhan/project-management-app)
-[![GitHub issues](https://img.shields.io/github/issues/MuneebWaliKhan/e-commerce-platform)](https://github.com/MuneebWaliKhan/e-commerce-platform/issues)
+[![GitHub issues](https://img.shields.io/github/issues/MuneebWaliKhan/e-commerce-platform)](https://github.com/Muneeb-wali-khan/e-commerce-platform/issues)
 [![GitHub contributors](https://img.shields.io/github/contributors/MuneebWaliKhan/personal-portfolio)](https://github.com/MuneebWaliKhan/personal-portfolio/graphs/contributors)
 
 Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together!
