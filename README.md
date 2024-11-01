@@ -20,7 +20,7 @@
     <a href="https://www.linkedin.com/in/Muneeb-wali-khan/">
         <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50"/>
     </a>
-    <a href="https://www.hackerrank.com/profile/md_sadique">
+    <a href="https://www.hackerrank.com/profile/Muneeb-wali-khan">
         <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088" width="50"/>
     </a>
     <a href="https://leetcode.com/u/md-sadique/">
@@ -28,7 +28,7 @@
     </a>
 </p>
 
-<h4 align="center"> 📩 Get in touch: <a href="mailto:mdsadique044234@gmail.com">mdsadique044234@gmail.com</a> </h4>
+<h4 align="center"> 📩 Get in touch: <a href="mailto:mdsadique044234@gmail.com">muneebwali809@gmail.com</a> </h4>
 
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
