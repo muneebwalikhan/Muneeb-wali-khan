@@ -46,9 +46,10 @@
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
 </p>
 <h2 align="center">GitHub Stats</h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeb-wali-khan&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-wali-khan&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeb-wali-khan&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-wali-khan&theme=dark)
 
