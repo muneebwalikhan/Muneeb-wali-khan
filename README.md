@@ -53,7 +53,7 @@
     <br/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muneeb-wali-khan&theme=github_dark" alt="Repos Per Language"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muneeb-wali-khan&theme=github_dark" alt="Most Commit Language"/>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeb-wali-khan&show_icons=true&theme=dark)
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadique-2004&theme=github_dark" alt="Stats"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muneeb-wali-khan&theme=github_dark" alt="Productive Time"/>
 </p>
 
