@@ -46,16 +46,13 @@
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Line Image" width="100%"/>
 </p>
 <h2 align="center">GitHub Stats</h2>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-wali-khan&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak"/>
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muneeb-wali-khan&theme=github_dark" alt="Profile Details"/>
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muneeb-wali-khan&theme=github_dark" alt="Repos Per Language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muneeb-wali-khan&theme=github_dark" alt="Most Commit Language"/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadique-2004&theme=github_dark" alt="Stats"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muneeb-wali-khan&theme=github_dark" alt="Productive Time"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeb-wali-khan&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-wali-khan&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-wali-khan&theme=dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Muneeb-wali-khan&theme=react-dark)
 
 ---
 
