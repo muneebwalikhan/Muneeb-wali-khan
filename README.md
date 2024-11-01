@@ -47,13 +47,16 @@
 </p>
 <h2 align="center">GitHub Stats</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-wali-khan&layout=compact&theme=dark)
+<p align="center">
+
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-wali-khan&layout=compact&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeb-wali-khan&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-wali-khan&theme=dark)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Muneeb-wali-khan&theme=react-dark)
+</p>
 
 ---
 
