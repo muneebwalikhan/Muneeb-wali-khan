@@ -1,7 +1,7 @@
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="[https://www.linkedin.com/in/Muneeb-wali-khan/](https://avatars.githubusercontent.com/u/126275491?s=400&u=86efe6fec6380098642f93931d5faa761caa03a2&v=4)" target="_blank">Muneeb wali khan</h1> 
 <p align="center">
     <a href="https://www.linkedin.com/in/Muneeb-wali-khan/">
-        <img src="https://avatars.githubusercontent.com/u/126275491?v=4"/>
+        <img src="[https://www.linkedin.com/in/Muneeb-wali-khan/](https://avatars.githubusercontent.com/u/126275491?s=400&u=86efe6fec6380098642f93931d5faa761caa03a2&v=4)"/>
     </a>
 </p>
 
